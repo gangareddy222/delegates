@@ -8,5 +8,6 @@ namespace delegates
 {
     public class Video
     {
+        public string Title { get; set; }=string.Empty;
     }
 }

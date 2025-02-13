@@ -12,3 +12,4 @@ C:\Users\ganthire\Desktop\local\delegates\delegates\obj\Debug\net9.0\refint\dele
 C:\Users\ganthire\Desktop\local\delegates\delegates\obj\Debug\net9.0\delegates.pdb
 C:\Users\ganthire\Desktop\local\delegates\delegates\obj\Debug\net9.0\delegates.genruntimeconfig.cache
 C:\Users\ganthire\Desktop\local\delegates\delegates\obj\Debug\net9.0\ref\delegates.dll
+C:\Users\ganthire\Desktop\local\delegates\delegates\obj\Debug\net9.0\delegates.sourcelink.json
